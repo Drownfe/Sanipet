@@ -1,0 +1,21 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç½†ªúÿÿÿÿ
+W
+java:S1854":Remove this useless assignment to local variable "random".(¾Åû8òì“·0
+U
+java:S1854":Remove this useless assignment to local variable "random".(ý„½‰ûÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ý„½‰ûÿÿÿÿ
+F
+java:S1481"+Remove this unused "random" local variable.(ý„½‰ûÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+?
+java:S1068	")Remove this unused "breed" private field.(ý»Ï±
+>
+java:S1068
+")Remove this unused "owner" private field.(â¸ÿ`
+F
+java:S1068"0Remove this unused "isVaccinated" private field.(ßÉ®‡
+L
+java:S1068"1Remove this unused "deWormingDate" private field.(ìÇó×üÿÿÿÿ

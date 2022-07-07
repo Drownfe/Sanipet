@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8¬±·0
+M
+java:S1068"0Remove this unused "presentation" private field.(áù¬­8‡ì±·0
+K
+java:S1068")Remove this unused "usage" private field.(™Ğó÷ûÿÿÿÿ8ˆì±·0
+I
+java:S1068",Remove this unused "quantity" private field.(¥Ú­ê8‰ì±·0
+F
+java:S1068")Remove this unused "stock" private field.(Ù´Ø§8‰ì±·0
